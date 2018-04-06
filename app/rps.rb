@@ -5,7 +5,7 @@ class RPS < Sinatra::Application
   enable :sessions
 
   get '/' do
-    erb(:index)
+    erb :index
   end
 
 end
