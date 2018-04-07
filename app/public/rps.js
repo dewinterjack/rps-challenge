@@ -9,3 +9,5 @@ function getFieldValue(fieldId) {
     $.ajax({ type: 'POST', url: '/start', data: formData, success: console.log("Sumitted!") });
    }
    $('.ui.form').form(validationRules, { onSuccess: submitForm });
+
+   
