@@ -8,7 +8,7 @@ Rock paper scissors game, aimed for marketers for the Makers Academy Marketing A
 
 **Contents**
 
-* [Requirements](/chapter1.md)
+* [Requirements](/requirements.md)
 * [Progress Docs](/progress-documentation.md)
 
 
