@@ -1,4 +1,4 @@
-feature 'User plays RPS' do
+feature 'User starts playing RPS' do
   scenario 'by entering their name and submitting' do
     
   end
