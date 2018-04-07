@@ -8,8 +8,8 @@ Rock paper scissors game, aimed for marketers for the Makers Academy Marketing A
 
 **Contents**
 
-* [Requirements](/requirements.md)
-* [Progress Docs](/progress-documentation.md)
+* [Requirements](https://dewinterjack.gitbooks.io/rock-paper-scissors/content/requirements.html)
+* [Progress Docs](https://dewinterjack.gitbooks.io/rock-paper-scissors/content/progress-documentation.html)
 
 
 
