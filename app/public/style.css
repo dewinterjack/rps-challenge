@@ -2,8 +2,16 @@ body{
   font-family: 'Roboto';
   font-weight: 300;
   font-size: 22px;
-  background-color: #e5f6f0;
+  background-color: #FFE4E1;
 }
+
+body > .grid {
+  height: 100%;
+}
+.column {
+  max-width: 450px;
+}
+
 
 h1{
   font-size: 50px;

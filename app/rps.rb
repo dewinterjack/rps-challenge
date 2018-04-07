@@ -8,4 +8,15 @@ class RPS < Sinatra::Application
     erb :index
   end
 
+  post '/start' do
+    session[:name] = params[:player_name]
+    redirect('/game')
+  end
+
+  get '/game' do
+    @name = session[:name]
+    erb :play
+  end
+
+
 end
